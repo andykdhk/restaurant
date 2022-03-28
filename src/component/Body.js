@@ -1,6 +1,6 @@
 export default function Body() {
   return (
-    <div class="body">
+    <div className="body">
       <p>Body</p>
     </div>
   );
